@@ -1,0 +1,168 @@
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AssimpNet.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.Assimp.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpGL.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AssimpNet.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Cyotek.Drawing.BitmapFont.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.Assimp.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpGL.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.SharpDX.Core.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.SharpDX.Core.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpXml.Common.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpXml.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpXml.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpXml.Common.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ExtendedXmlSerializer.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Interactive.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\XSerializer.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ExtendedXmlSerializer.pdb
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Interactive.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\XSerializer.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Xml.Net.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Aspose.3D.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ColladaSlimDX.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CoreCollada.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Aspose.3D.xml
+C:\Users\Isuru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.SharpDX.Core.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.Assimp.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DXGI.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Interactive.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Cyotek.Drawing.BitmapFont.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.SharpDX.Core.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HelixToolkit.Wpf.SharpDX.Assimp.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DXGI.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Interactive.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syroot.BinaryData.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syroot.Maths.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syroot.BinaryData.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syroot.Maths.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syroot.NintenTools.Bfres.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syroot.NintenTools.Bfres.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Super Mario 3D World Model Converter.exe.config
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Super Mario 3D World Model Converter.exe
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Super Mario 3D World Model Converter.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Super Mario 3D World Model Converter.exe.config
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SuperMario3DWorldModelConverter.Properties.Resources.resources
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Super Mario 3D World Model Converter.exe
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Super Mario 3D World Model Converter.pdb
+C:\Users\VG Isuru Ex\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AssimpNet.xml

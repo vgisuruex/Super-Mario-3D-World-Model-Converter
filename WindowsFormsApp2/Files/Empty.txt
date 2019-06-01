@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Assimp</author>
+      <authoring_tool>Assimp Exporter</authoring_tool>
+    </contributor>
+    <created>2019-05-18T17:46:45</created>
+    <modified>2019-05-18T17:46:45</modified>
+    <unit name="meter" meter="0.02539999969303608" />
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="Lawn00-diffuse-image">
+      <init_from>C:\Users\Isuru\Documents\3dsMax\sceneassets\images\Lawn00_DM_alb.dds</init_from>
+    </image>
+    <image id="Lawn00-transparent-image">
+      <init_from>C:\Users\Isuru\Documents\3dsMax\sceneassets\images\Lawn00_DM_alb.dds</init_from>
+    </image>
+    <image id="Wood00-diffuse-image">
+      <init_from>C:\Users\Isuru\Documents\3dsMax\sceneassets\images\Wood00_DS_alb.dds</init_from>
+    </image>
+    <image id="Wood00-transparent-image">
+      <init_from>C:\Users\Isuru\Documents\3dsMax\sceneassets\images\Wood00_DS_alb.dds</init_from>
+    </image>
+  </library_images>
+  <library_effects>
+    <effect id="Koishi00-fx" name="Koishi00">
+      <profile_COMMON>
+        <technique sid="standard">
+          <phong>
+            <emission>
+              <color sid="emission">0   0   0   1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0.5879999995231628   0.5879999995231628   0.5879999995231628   1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">1   1   1   1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0   0   0   1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">2</float>
+            </shininess>
+            <reflective>
+              <color sid="reflective">0   0   0   1</color>
+            </reflective>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Lawn00-fx" name="Lawn00">
+      <profile_COMMON>
+        <newparam sid="Lawn00-diffuse-surface">
+          <surface type="2D">
+            <init_from>Lawn00-diffuse-image</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="Lawn00-diffuse-sampler">
+          <sampler2D>
+            <source>Lawn00-diffuse-surface</source>
+          </sampler2D>
+        </newparam>
+        <newparam sid="Lawn00-transparent-surface">
+          <surface type="2D">
+            <init_from>Lawn00-transparent-image</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="Lawn00-transparent-sampler">
+          <sampler2D>
+            <source>Lawn00-transparent-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="standard">
+          <phong>
+            <emission>
+              <color sid="emission">0   0   0   1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0.5879999995231628   0.5879999995231628   0.5879999995231628   1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="Lawn00-diffuse-sampler" texcoord="CHANNEL0" />
+            </diffuse>
+            <specular>
+              <color sid="specular">0   0   0   1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">2</float>
+            </shininess>
+            <reflective>
+              <color sid="reflective">0   0   0   1</color>
+            </reflective>
+            <transparent>
+              <texture texture="Lawn00-transparent-sampler" texcoord="CHANNEL0" />
+            </transparent>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Wood00-fx" name="Wood00">
+      <profile_COMMON>
+        <newparam sid="Wood00-diffuse-surface">
+          <surface type="2D">
+            <init_from>Wood00-diffuse-image</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="Wood00-diffuse-sampler">
+          <sampler2D>
+            <source>Wood00-diffuse-surface</source>
+          </sampler2D>
+        </newparam>
+        <newparam sid="Wood00-transparent-surface">
+          <surface type="2D">
+            <init_from>Wood00-transparent-image</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="Wood00-transparent-sampler">
+          <sampler2D>
+            <source>Wood00-transparent-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="standard">
+          <phong>
+            <emission>
+              <color sid="emission">0   0   0   1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0.5879999995231628   0.5879999995231628   0.5879999995231628   1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="Wood00-diffuse-sampler" texcoord="CHANNEL0" />
+            </diffuse>
+            <specular>
+              <color sid="specular">0   0   0   1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">2</float>
+            </shininess>
+            <reflective>
+              <color sid="reflective">0   0   0   1</color>
+            </reflective>
+            <transparent>
+              <texture texture="Wood00-transparent-sampler" texcoord="CHANNEL0" />
+            </transparent>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="Koishi00" name="Koishi00">
+      <instance_effect url="#Koishi00-fx"/>
+    </material>
+    <material id="Lawn00" name="Lawn00">
+      <instance_effect url="#Lawn00-fx"/>
+    </material>
+    <material id="Wood00" name="Wood00">
+      <instance_effect url="#Wood00-fx"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+  	meshid and geometry
+  </library_geometries>
+  <library_controllers>
+  </library_controllers>
+  <library_visual_scenes>
+    <visual_scene id="Bfres" name="Bfres">
+      <node id="EmptyBoneName" sid="EmptyBoneName" name="EmptyBoneName" type="JOINT">
+        <matrix sid="matrix">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Bfres" />
+  </scene>
+</COLLADA>
